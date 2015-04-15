@@ -5,9 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/tcarlsen/gulp-jsonminify.git",
   "dependencies": {
-    "jsonminify": "~0.2.2",
-    "through2": "~0.4.1",
-    "gulp-util": "~2.2.12"
+    "jsonminify": "~0.2.3",
+    "through2": "~0.6.5",
+    "gulp-util": "~3.0.4"
   },
   "keywords": [
     "gulpplugin",
